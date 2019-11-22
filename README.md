@@ -1,6 +1,3 @@
-
-# Welcome to LearnCS8 Resume Website
-
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
-
-Special thanks to the open source bootstrap libraries that made this website possible. 
+# Welcome to Madison Garcia's Resume Website 
+I am intrested in going into the education fied. 
+I want to become an educator and teach in the Native American community.
